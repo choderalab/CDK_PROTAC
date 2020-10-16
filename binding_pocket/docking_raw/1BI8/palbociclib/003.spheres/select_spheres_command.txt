@@ -1,0 +1,5 @@
+# initial select:
+sphere_selector 1BI8.rec.sph ../001.lig-prep/palbociclib_1BI8.mol2 8.0
+
+# final select:
+sphere_selector 1BI8.rec.sph ../001.lig-prep/palbociclib_1BI8.mol2 2.0

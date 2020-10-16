@@ -1,0 +1,5 @@
+# initial select:
+sphere_selector 2EUF.rec.sph ../001.lig-prep/AMP-PNP_2EUF.mol2 8.0
+
+# final select:
+sphere_selector 2EUF.rec.sph ../006.dock/AMP-PNP.output_scored.mol2 2.0

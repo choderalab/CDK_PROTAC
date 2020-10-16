@@ -1,0 +1,10 @@
+ density type = X
+ reading  receptor.dms.out                                                                   type   R
+ # of atoms =   2342   # of surf pts =  27922
+ finding spheres for   receptor.dms.out                                                                
+ dotlim =     0.000
+ radmax =    4.000
+ Minimum radius of acceptable spheres?
+   1.4000000
+ output to  receptor.sph                                                                    
+ clustering is complete     69  clusters

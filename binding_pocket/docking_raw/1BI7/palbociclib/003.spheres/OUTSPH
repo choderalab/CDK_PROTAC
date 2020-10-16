@@ -1,0 +1,10 @@
+ density type = X
+ reading  1BI7.dms.out                                                                       type   R
+ # of atoms =   3087   # of surf pts =  31282
+ finding spheres for   1BI7.dms.out                                                                    
+ dotlim =     0.000
+ radmax =    4.000
+ Minimum radius of acceptable spheres?
+   1.4000000
+ output to  1BI7.rec.sph                                                                    
+ clustering is complete     89  clusters

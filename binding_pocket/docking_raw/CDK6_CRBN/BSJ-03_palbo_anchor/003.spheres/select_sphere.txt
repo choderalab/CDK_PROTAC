@@ -1,0 +1,3 @@
+# initial select:
+sphere_selector receptor.sph ../001.lig-prep/palbo.mol2 4.0
+

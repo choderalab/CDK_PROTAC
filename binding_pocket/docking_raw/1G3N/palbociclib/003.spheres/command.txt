@@ -1,0 +1,5 @@
+# initial select:
+sphere_selector 1G3N.rec.sph ../001.lig-prep/palbociclib_1G3N.mol2 8.0
+
+# final select (docking failed):
+sphere_selector 1G3N.rec.sph ../001.lig-prep/palbociclib_1G3N.mol2 2.0

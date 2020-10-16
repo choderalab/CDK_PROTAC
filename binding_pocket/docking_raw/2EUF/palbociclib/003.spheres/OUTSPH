@@ -1,0 +1,10 @@
+ density type = X
+ reading  2EUF.dms.out                                                                       type   R
+ # of atoms =   4051   # of surf pts =  45423
+ finding spheres for   2EUF.dms.out                                                                    
+ dotlim =     0.000
+ radmax =    4.000
+ Minimum radius of acceptable spheres?
+   1.4000000
+ output to  2EUF.rec.sph                                                                    
+ clustering is complete    105  clusters

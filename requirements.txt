@@ -1,0 +1,44 @@
+appnope==0.1.0
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+backcall==0.1.0
+certifi==2020.6.20
+cftime @ file:///Users/runner/miniforge3/conda-bld/cftime_1595215626490/work
+cycler==0.10.0
+Cython @ file:///Users/runner/miniforge3/conda-bld/cython_1594253509370/work
+decorator==4.4.2
+ipykernel==5.2.1
+ipython==7.13.0
+ipython-genutils==0.2.0
+jedi==0.17.0
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-base_1597952261975/work
+mdtraj @ file:///Users/runner/miniforge3/conda-bld/mdtraj_1589204186811/work
+mock @ file:///usr/local/miniconda/conda-bld/mock_1588618900229/work
+netCDF4 @ file:///Users/runner/miniforge3/conda-bld/netcdf4_1598211519438/work
+numexpr==2.7.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1597938374507/work
+olefile==0.46
+OpenMM==7.4.2
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1599601191332/work
+parso==0.7.0
+patsy==0.5.1
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1594212136526/work
+prompt-toolkit==3.0.5
+ptyprocess==0.6.0
+Pygments==2.6.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+pyzmq==19.0.0
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1595583593448/work
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1599592695803/work
+six==1.15.0
+statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1598551208943/work
+tables==3.6.1
+tornado==6.0.4
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1596476591553/work
+traitlets==4.3.3
+wcwidth==0.1.9
